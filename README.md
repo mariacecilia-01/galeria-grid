@@ -1,5 +1,5 @@
 # Galeria grid
-[](preview.png)
+![](preview.png)
 
 ## Projeto
 Galeria de fotos utilizando o grid

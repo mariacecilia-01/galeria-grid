@@ -9,4 +9,6 @@ Galeria de fotos utilizando o grid
 * CSS
 * Markedown
 * Git
-# galeria-grid
+
+## Autor
+Maria Cecilia
